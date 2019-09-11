@@ -1,11 +1,11 @@
 #include <iostream>
 #include <string>
-#include "include/Program.h"
+#include "Program.h"
 #include <list>
 #include <fstream>
 #include <vector>
 #include <stdlib.h>
-#include "include/Dishwasher.h"
+#include "Dishwasher.h"
 
 using namespace std;
 
