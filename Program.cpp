@@ -1,6 +1,6 @@
 #include <string>
 #include <cstdlib>
-#include "../include/Program.h"
+#include "Program.h"
 
 using namespace std;
 
