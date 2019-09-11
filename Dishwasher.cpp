@@ -1,4 +1,4 @@
-#include "../include/Dishwasher.h"
+#include "Dishwasher.h"
 #include <cstdlib>
 #include <iostream>
 
