@@ -1,0 +1,16 @@
+Quick Clean
+30
+70
+50
+High-Temperature Wash
+45
+150
+100
+Heavy Wash
+60
+100
+120
+Rinse Only
+15
+45
+20
